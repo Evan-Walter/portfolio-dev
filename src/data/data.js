@@ -38,6 +38,19 @@ export const aboutData = {
 export const projectsData = [
   {
     number: 1,
+    id: 'confco',
+    title: 'The Confidence Co',
+    img: 'confco-1000.png',
+    videoImg: '',
+    info: `A new design for a health and wellness Shopify store involving theme customization and theme creation`,
+    info2: '',
+    tags: ['Shopify', 'Theme Creation', 'Theme Customization', 'HTML/CSS/JavaScript', 'Design'],
+    url: '',
+    video: 'https://www.loom.com/embed/505d28067eb3491a8e27dc222c21ad12',
+    repo: '',
+  },
+  {
+    number: 2,
     id: 'w3',
     title: 'W3 Sales',
     img: 'w3-1000.png',
@@ -50,7 +63,7 @@ export const projectsData = [
     repo: '',
   },
   {
-    number: 2,
+    number: 3,
     id: 'drummond',
     title: `Drummond's Clothing`,
     img: 'drummond-home-1000.png',
@@ -63,7 +76,7 @@ export const projectsData = [
     repo: '',
   },
   {
-    number: 3,
+    number: 4,
     id: 'iuniverse',
     title: 'iUniverse',
     img: 'iuniverse-home-1000.png',
@@ -76,7 +89,7 @@ export const projectsData = [
     repo: '',
   },
   {
-    number: 4,
+    number: 5,
     id: 'wine-pairing',
     title: 'Wine Pairing App',
     img: 'wine-pairing-1000.png',

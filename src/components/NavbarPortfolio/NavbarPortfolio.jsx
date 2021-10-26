@@ -34,6 +34,11 @@ const NavbarPortfolio = () => {
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
                 <NavDropdown.Item id="nav-drop-item-ctl">
+                  <Link to="confco" smooth duration={1000}>
+                    The Confidence Co
+                  </Link>
+                </NavDropdown.Item>
+                <NavDropdown.Item id="nav-drop-item-ctl">
                   <Link to="w3" smooth duration={1000}>
                     W3 Sales
                   </Link>
